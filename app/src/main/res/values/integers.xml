@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <integer name="easy_level_row">9</integer>
+    <integer name="easy_level_col">9</integer>
+    <integer name="easy_level_bomb">10</integer>
+
+    <integer name="medium_level_row">16</integer>
+    <integer name="medium_level_col">16</integer>
+    <integer name="medium_level_bomb">40</integer>
+
+    <integer name="hard_level_row">20</integer>
+    <integer name="hard_level_col">16</integer>
+    <integer name="hard_level_bomb">60</integer>
+
+    <integer-array name="easy_level">
+        <item>@integer/easy_level_row</item>
+        <item>@integer/easy_level_col</item>
+        <item>@integer/easy_level_bomb</item>
+    </integer-array>
+
+</resources>

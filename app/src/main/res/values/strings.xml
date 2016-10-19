@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Minesweeper</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_location">Location</string>
+
+
+    <string name="toast_location">Location is already ON :)</string>
+    <string name="toast_bzzzt">Sorry, but before you can play we need permission to location</string>
+
+
+    <string name="timerVal">0:00</string>
+    <string name="flagsValue">00</string>
+
+    <string name="Easy">Easy</string>
+    <string name="Medium">Medium</string>
+    <string name="Hard">Hard</string>
+    <string name="HighScore">High score</string>
+
+    <string name="Start_Button">Start</string>
+    <string name="Copyright">By Ofir Monis and Yoni Daniel</string>
+    <string name="title_activity_game">GameActivity</string>
+    <string name="Time">Time</string>
+    <string name="FailedDialogTitle">You Failed !</string>
+    <string name="FailedDialogContent">Do you want to start new game ?</string>
+    <string name="ResetDialogTitle">New Game?</string>
+    <string name="ResetDialogContent">Are you sure you want to start new game and lose current game?</string>
+    <string name="cancelButton">Cancel</string>
+    <string name="okButton">OK</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="WinDialogTitle">You Won !</string>
+    <string name="EnterName">Please enter your name</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_pager">Add new high score:</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    
+    <string name="toast_stop_move">You should stop moving</string>
+    
+
+
+</resources>
